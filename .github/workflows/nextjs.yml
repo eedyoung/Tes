@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "eedyoung.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "young"; // Ganti dengan nama workers kalian
-const apiKey = "w6ysLjJlqeeUtUyM8OcwRhI-2uadzLdeX1_4AZgP"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "6mJd4SrIeCfQqVe-_-e3dNMRTv2dCHqurgmA7uJ2"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "youngboygirlsexs@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "56aa848ba938ec61b0a1e4cf959f1f70"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "90775d39ebc5663e360328079ae5ab8b"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
